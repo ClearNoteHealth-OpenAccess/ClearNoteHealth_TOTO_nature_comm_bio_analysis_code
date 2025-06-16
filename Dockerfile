@@ -22,7 +22,8 @@ RUN Rscript -e 'packages <- readLines("/tmp/r-requirements.txt"); \
     install.packages(packages, repos="https://cloud.r-project.org/")'
 
 # Install python uv
-RUN wget -qO- https://astral.sh/uv/install.sh | sh
+SHELL ["/bin/bash", "-o", "pipefail", "-c"]
+RUN set -euo pipefail && wget -qO- https://astral.sh/uv/install.sh | bash -
 
 # Install python libraries
 COPY ./uv.lock /tmp/
