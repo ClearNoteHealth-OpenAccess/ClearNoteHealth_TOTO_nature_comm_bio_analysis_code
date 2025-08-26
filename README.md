@@ -48,3 +48,9 @@ docker run -it -v $PWD/:/cnh/ --rm cnh_toto Rscript R/manuscripts/Main_Figures.R
 #### Supplemental Figures
 docker run -it -v $PWD/:/cnh/ --rm cnh_toto Rscript R/manuscripts/Supplemental_Figures.R
 ```
+
+## Citation
+
+If you use the data or code in this repository, please cite:
+
+Xue, Y., Ning, Y., Friedl, V., Haan, D., Bergamaschi, A., Guler, G. D., Hazen, K., Scott, A., Phillips, T., McCarthy, E., Ellison, C. K., Malta, R., Nguyen, A., Lopez, V., Cavet, R., Gibb, W., Chowdhury, S., Volkmuth, W., & Levy, S. (2025). 5-hydroxymethylcytosine Analysis Reveals Stable Epigenomic Changes in Tumor Tissue that Enable Cancer Detection in Cell-free DNA (Version 1.0.0) [Computer software]. https://github.com/ClearNoteHealth-OpenAccess/ClearNoteHealth_TOTO_nature_comm_bio_analysis_code
