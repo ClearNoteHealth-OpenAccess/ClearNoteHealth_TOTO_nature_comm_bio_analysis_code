@@ -1,0 +1,66 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "5-hydroxymethylcytosine Analysis Reveals Stable Epigenomic Changes in Tumor Tissue that Enable Cancer Detection in Cell-free DNA"
+version: 1.0.0
+date-released: 2025-08-26
+url: "https://github.com/ClearNoteHealth-OpenAccess/ClearNoteHealth_TOTO_nature_comm_bio_analysis_code"
+license: MIT
+abstract: "5-hydroxymethylcytosine (5hmC) is a stable epigenomic mark associated with gene regulation and tumorigenesis. To evaluate its potential for multi-cancer detection, epigenomic distribution of 5hmC was analyzed in tumor tissues (n=217), normal tissues (n=50), and cell-free DNA (cfDNA) from cancer (n=1009) and non-cancer subjects (n=1678) across breast, colon, lung, ovarian, and pancreatic cancers. Differential analysis revealed extensive redistribution of 5hmC in early-stage tumors that persisted into the late-stage, while global 5hmC abundance decreased in all tumors. Two distinct patterns of hydroxymethylation distribution were identified: one common across cancers and another tissue specific. Differential hydroxymethylation regions (DhmRs) that were tumor tissue specific had significantly improved cancer prediction in cfDNA. A multinomial logistic regression model was trained on tissue-specific DhmRs to predict Tissue of Tumor Origin (TOTO) of cfDNA with 85.2% accuracy. These findings demonstrate that stable, cancer-specific 5hmC signatures established early in tumorigenesis persist throughout disease progression, suggesting 5hmC as a promising pan-cancer marker for early and late-stage tumor detection via liquid biopsy."
+authors:
+    - family-names: Xue
+      given-names: Yuan
+      affiliation: "ClearNote Health"
+    - family-names: Ning
+      given-names: Yuhong
+      affiliation: "ClearNote Health"
+    - family-names: Friedl
+      given-names: Verena
+      affiliation: "ClearNote Health"
+    - family-names: Haan
+      given-names: David
+      affiliation: "ClearNote Health"
+    - family-names: Bergamaschi
+      given-names: Anna
+      affiliation: "ClearNote Health"
+    - family-names: Guler
+      given-names: Gulfem D.
+      affiliation: "ClearNote Health"
+    - family-names: Hazen
+      given-names: Kyle
+      affiliation: "ClearNote Health"
+    - family-names: Scott
+      given-names: Aaron
+      affiliation: "ClearNote Health"
+    - family-names: Phillips
+      given-names: Tierney
+      affiliation: "ClearNote Health"
+    - family-names: McCarthy
+      given-names: Erin
+      affiliation: "ClearNote Health"
+    - family-names: Ellison
+      given-names: Christopher K.
+      affiliation: "ClearNote Health"
+    - family-names: Malta
+      given-names: Roger
+      affiliation: "ClearNote Health"
+    - family-names: Nguyen
+      given-names: Albert
+      affiliation: "ClearNote Health"
+    - family-names: Lopez
+      given-names: Vanessa
+      affiliation: "ClearNote Health"
+    - family-names: Cavet
+      given-names: Romola
+      affiliation: "ClearNote Health"
+    - family-names: Gibb
+      given-names: William
+      affiliation: "ClearNote Health"
+    - family-names: Chowdhury
+      given-names: Shimul
+      affiliation: "ClearNote Health"
+    - family-names: Volkmuth
+      given-names: Wayne
+      affiliation: "ClearNote Health"
+    - family-names: Levy
+      given-names: Samuel
+      affiliation: "ClearNote Health"
