@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "5-hydroxymethylcytosine Analysis Reveals Stable Epigenomic Changes in Tumor Tissue that Enable Cancer Detection in Cell-free DNA"
-version: 1.0.0
+version: 1.0.1
 date-released: 2025-08-26
 url: "https://github.com/ClearNoteHealth-OpenAccess/ClearNoteHealth_TOTO_nature_comm_bio_analysis_code"
 license: MIT
@@ -51,6 +51,12 @@ authors:
       affiliation: "ClearNote Health"
     - family-names: Cavet
       given-names: Romola
+      affiliation: "ClearNote Health"
+    - family-names: Peters
+      given-names: M.
+      affiliation: "ClearNote Health"
+    - family-names: Sheard
+      given-names: J.
       affiliation: "ClearNote Health"
     - family-names: Gibb
       given-names: William
